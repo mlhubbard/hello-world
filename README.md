@@ -1,4 +1,3 @@
 # hello-world
 my first repository on GitHub
-
-I love to geek out
+my updated repository on GitHub
