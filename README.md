@@ -1,2 +1,3 @@
 # hello-world
-y first repository on GitHub
+my first repository on GitHub
+I love to geek out
